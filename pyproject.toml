@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "wanacult-timing"
+version = "0.1.0"
+description = ""
+authors = ["Murray Christopherson <murraychristopherson@gmail.com>"]
+readme = "README.md"
+packages = [{include = "wanacult_timing"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytimeparse = "^1.1.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
