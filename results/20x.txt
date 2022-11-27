@@ -1,0 +1,8 @@
+# poetry run python timing.py 0:59,1:21,2:19,2:40 20.0
+
+FUCK AROUND: 0:19:34.950000
+SONG: 0:02:40
+FUCK AROUND: 0:19:14.900000
+SONG: 0:02:40
+
+total: 0:44:09.850000
